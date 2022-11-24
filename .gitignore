@@ -1,9 +1,0 @@
-#This .gitignore file will ignore all the untracked files
-
-#This Ignore everything in the core directory
-/*
-
-!index.html
-
-!.gitignore
-

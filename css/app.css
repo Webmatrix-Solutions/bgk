@@ -1,0 +1,7 @@
+/** Home page banner button **/
+.promo-slider__item--style-2 .promo-slider__button.banner-btn {
+    background: linear-gradient(77deg, rgba(251,82,32,1) 22%, rgba(244,185,49,1) 75%) !important;
+    border: none;
+    color: #fff;
+    font-size: 16px;     
+}
