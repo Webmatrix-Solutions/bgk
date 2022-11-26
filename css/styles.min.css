@@ -18016,7 +18016,7 @@ a:hover {
 
 .screen__button {
     display: block;
-    color: rgba(0, 0, 0, .87);
+    color: #ffffff;
     font-size: 14px;
     line-height: 20px;
     font-weight: 700;
@@ -18024,7 +18024,7 @@ a:hover {
     text-align: center;
     padding: 26px 50px;
     margin-top: 16px;
-    background: #fdd340;
+    background: linear-gradient(77deg, rgba(251,82,32,1) 22%, rgba(244,185,49,1) 75%);
     -webkit-transition: background .3s;
     -o-transition: background .3s;
     transition: background .3s
