@@ -18849,11 +18849,11 @@ a:hover {
     margin-right: 45px
 }
 
-@media only screen and (min-width:1367px) {
+/*@media only screen and (min-width:1367px) {
     .header-f3 .main-menu {
         margin-right: 85px
     }
-}
+}*/
 
 .header-f3 .header__button {
     height: 60px;
