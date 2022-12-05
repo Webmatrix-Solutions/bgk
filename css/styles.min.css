@@ -1739,7 +1739,8 @@ html {
 
 .no-gutters {
     margin-right: 0;
-    margin-left: 0
+    margin-left: 0;
+    margin-top: 2.8rem;
 }
 
 .no-gutters>.col,
@@ -11847,7 +11848,7 @@ img {
 
 .button {
     display: inline-block;
-    color: #333;
+    color: #fff;
     font-size: 16px;
     font-weight: 700;
     text-align: center;
@@ -11860,12 +11861,13 @@ img {
 }
 
 .button:hover {
-    color: #333;
+    color: #FFF;
     background-color: #fdd340
 }
 
 .button--primary {
-    border: 2px solid #fdd340
+    background: linear-gradient(77deg, rgba(251,82,32,1) 22%, rgba(244,185,49,1) 75%);
+    border-radius: 10px;
 }
 
 .button--filled {
@@ -12144,7 +12146,7 @@ section.section {
 
 @media only screen and (min-width:992px) {
     .bottom-50 {
-        margin-bottom: 50px !important
+        margin-bottom: 10px !important
     }
 }
 
@@ -12838,7 +12840,7 @@ section.section {
     position: relative;
     color: #fff;
     padding: 47px 20px;
-    background: rgba(0, 0, 0, .6);
+    background: rgba(0, 0, 0, .3);
     min-height: 520px
 }
 
