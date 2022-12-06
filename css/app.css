@@ -5,3 +5,17 @@
     color: #fff;
     font-size: 16px;     
 }
+
+h3.upcoming_ride_heading{
+    color: #fff;
+}
+
+p.ride_time{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p#demo{
+    font-size: 30px;
+    margin-top: -1rem;
+}
