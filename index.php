@@ -1,0 +1,435 @@
+<?php 
+include('header.php');
+?>
+			<main class="main">
+				<!-- promo start-->
+				<section class="promo">
+					<div class="promo-slider">
+						<div class="promo-slider__item promo-slider__item--style-2">
+							<picture>
+								<source srcset="img/homepage-banner/banner-1.webp" media="(min-width: 992px)"/><img class="img--bg" src="img/homepage-banner/banner-1.webp" alt="img"/>
+							</picture>
+							<div class="container">
+								<div class="row">
+									<div class="col-xl-7">
+										<div class="align-container">
+											<div class="align-container__item">
+												<div class="promo-slider__wrapper-1">
+													<h2 class="promo-slider__title"><span>Welcome to </span><br/><span>BGK</span></h2>
+												</div>
+												<div class="promo-slider__wrapper-2">
+													<p class="promo-slider__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												</div>
+												<div class="promo-slider__wrapper-3"><a class="button promo-slider__button button--primary banner-btn" href="#about">Take a Tour</a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="promo-slider__item promo-slider__item--style-2">
+							<picture>
+								<source srcset="img/homepage-banner/banner-2.webp" media="(min-width: 992px)"/><img class="img--bg" src="img/homepage-banner/banner-2.webp" alt="img"/>
+							</picture>
+							<div class="container">
+								<div class="row">
+									<div class="col-xl-6 offset-xl-6">
+										<div class="align-container">
+											<div class="align-container__item">
+												<div class="promo-slider__wrapper-1">
+													<h2 class="promo-slider__title"><span>Welcome to </span><br/><span>BGK</span></h2>
+												</div>
+												<div class="promo-slider__wrapper-2">
+													<p class="promo-slider__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												</div>
+												<div class="promo-slider__wrapper-3"><a class="button promo-slider__button button--primary banner-btn" href="#about">Take a Tour</a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="promo-slider__item promo-slider__item--style-2">
+							<picture>
+								<source srcset="img/homepage-banner/banner-3.jpg" media="(min-width: 992px)"/><img class="img--bg" src="img/homepage-banner/banner-3.jpg" alt="img"/>
+							</picture>
+							<div class="container">
+								<div class="row">
+									<div class="col-xl-7">
+										<div class="align-container">
+											<div class="align-container__item">
+												<div class="promo-slider__wrapper-1">
+													<h2 class="promo-slider__title"><span>Welcome to </span><br/><span>BGK</span></h2>
+												</div>
+												<div class="promo-slider__wrapper-2">
+													<p class="promo-slider__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												</div>
+												<div class="promo-slider__wrapper-3"><a class="button promo-slider__button button--primary banner-btn" href="#about">Take a Tour</a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><a class="anchor promo__anchor" href="#about"><span>Scroll Down</span></a>
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+								<!-- slider nav start-->
+								<div class="promo-slider__nav"></div>
+								<!-- slider nav end-->
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- promo end-->
+
+				<!-- About section start-->
+				<section class="section about-front no-padding-bottom" id="about"><img class="about-front__bg t50 r0" src="img/about_bg.png" alt="img"/>
+					<div class="container">
+						<div class="row flex-column-reverse flex-lg-row">
+							<div class="col-lg-6 col-xl-5">
+								<div class="info-box">
+									<div class="info-box__inner"><img class="img--bg" src="img/homepage-banner/banner-3.jpg" alt="img"/>
+										<div class="heading heading--primary"><span class="heading__pre-title">Lorem ipsum</span>
+											<h2 class="heading__title color--white"><span>Dolor sit amet</span><br/> <span>Excepteur sint occaecat</span> </h2>
+										</div>
+										<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p><a class="info-box__link" href="javascript:void(0);">JOIN US TODAY</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6 col-xl-6 offset-xl-1">
+								<div class="heading heading--primary heading--style-2"><span class="heading__pre-title">About Us</span>
+									<h2 class="heading__title"><span>Words about</span><br/> <span>Bengal Gearless Knights</span></h2>
+								</div>
+								<p><strong>Ac tincidunt vitae semper quis lectus. Eu consequat ac felis donec et odio pellentesque. Morbi enim nunc faucibus a pellentesque sit. Id diam vel quam elementum pulvinar etiam non</strong></p>
+								<p class="bottom-50">Pellentesque dignissim enim sit amet. Sodales ut etiam sit amet nisl purus in mollis nunc. Eu consequat ac felis donec et odio. Et sollicitudin ac orci phasellus egestas tellus rutrum tellus </p>
+								<div class="row offset-30">
+									<div class="col-6 col-sm-3">
+										<div class="brand-item bottom-30"><img class="brand-item__img" src="img/sponsors/motul.png" alt="logo"/></div>
+									</div>
+									<div class="col-6 col-sm-3">
+										<div class="brand-item bottom-30"><img class="brand-item__img" src="img/sponsors/tvs.jpg" alt="logo"/></div>
+									</div>
+								</div><a class="button button--primary top-50" href="#">Know More About Us</a>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- About section end-->
+
+				<!-- Benfits Section start-->
+				<section class="section no-padding-bottom">
+					<div class="container">
+						<div class="row align-items-end bottom-70">
+							<div class="col-xl-7">
+								<div class="heading heading--primary heading--style-2"><span class="heading__pre-title">Member's Benefits</span>
+									<h2 class="heading__title"><span>Special Benefits</span> <span>for our Members</span></h2>
+									<p>Lacus laoreet non curabitur gravida arcu ac tortor. Eu sem integer vitae justo. Nulla facilisi cras fermentum odio eu feugiat pretium nibh ipsum. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Eros donec ac odio tempor</p>
+								</div>
+							</div>
+							<div class="col-xl-5 d-none d-xl-block">
+								<div class="row">
+									<div class="col-md-4">
+										<div class="counter-item counter-item--front-1">
+											<div class="counter-item__top">
+												<h6 class="counter-item__title" style="font-size: 12px;">Kilometers Driven</h6>
+											</div>
+											<div class="counter-item__lower"><span class="js-counter">14756</span></div>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="counter-item counter-item--front-1">
+											<div class="counter-item__top">
+												<h6 class="counter-item__title" style="font-size: 12px;">Total Members</h6>
+											</div>
+											<div class="counter-item__lower"><span class="js-counter">960</span></div>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="counter-item counter-item--front-1">
+											<div class="counter-item__top">
+												<h6 class="counter-item__title" style="font-size: 12px;">Years of Togetherness</h6>
+											</div>
+											<div class="counter-item__lower"><span class="js-counter">2.5</span></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row offset-30">
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon color--primary">
+									<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50" class="icon">
+										<path d="M 24.849609 10 C 11.077609 10 10 11.077609 10 24.849609 L 10 25.150391 C 10 38.922391 11.077609 40 24.849609 40 L 25.150391 40 C 38.922391 40 40 38.922391 40 25.150391 L 40 24.849609 C 40 11.077609 38.922391 10 25.150391 10 L 24.849609 10 z M 33.496094 15 C 34.325094 14.998 34.998 15.667094 35 16.496094 C 35.002 17.325094 34.332906 17.998 33.503906 18 C 32.674906 18.002 32.002 17.332906 32 16.503906 C 31.998 15.674906 32.667094 15.002 33.496094 15 z M 24.980469 17 C 29.398469 16.99 32.989 20.562469 33 24.980469 C 33.01 29.398469 29.437531 32.989 25.019531 33 C 20.601531 33.011 17.011 29.437531 17 25.019531 C 16.99 20.601531 20.562469 17.011 24.980469 17 z M 24.982422 18 C 21.116422 18.009 17.991 21.151578 18 25.017578 C 18.009 28.883578 21.151578 32.009 25.017578 32 C 28.883578 31.991 32.009 28.848422 32 24.982422 C 31.991 21.116422 28.848422 17.991 24.982422 18 z"></path>
+									</svg>
+								</div>
+								<h6 class="animal-item__title">Social Scene</h6></a></div>
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon">
+									<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 24 24" class="icon">
+										<path d="M11,16.414l-4.707-4.707l1.414-1.414L11,13.586l9.675-9.675C20.318,3.364,19.702,3,19,3H5C3.895,3,3,3.895,3,5v14 c0,1.105,0.895,2,2,2h14c1.105,0,2-0.895,2-2V6.414L11,16.414z"></path>
+									</svg>
+								</div>
+								<h6 class="animal-item__title">Discount Perks</h6></a></div>
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon">
+									<div class="icon">
+										<img src="https://img.icons8.com/material/48/null/motorbike-helmet--v1.png"/>
+									</div>
+								</div>
+								<h6 class="animal-item__title">Improve Riding Skills</h6></a></div>
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon">
+									<img src="https://img.icons8.com/material/48/null/handshake--v1.png"/>
+								</div>
+								<h6 class="animal-item__title" style="font-size: 15px;">Fellowship</h6></a></div>
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon">
+									<div class="icon">
+										<img src="https://img.icons8.com/material/48/null/high-priority--v1.png"/>
+									</div>
+								</div>
+								<h6 class="animal-item__title">Safety in Numbers</h6></a></div>
+							<div class="col-sm-6 col-md-4 col-xl-2"><a class="animal-item text-center background--orange color--primary" href="#">
+								<div class="animal-item__icon">
+									<div class="icon">
+										<img src="https://img.icons8.com/material/48/null/roadside-assistance.png"/>
+									</div>
+								</div>
+								<h6 class="animal-item__title">Assitance</h6></a></div>
+						</div>
+					</div>
+				</section>
+				<!-- Benefit Section end-->
+
+				<!-- gallery start-->
+				<section class="section gallery no-padding-bottom">
+					<div class="container">
+						<div class="row bottom-50 align-items-end">
+							<div class="col-md-7 col-lg-6">
+								<div class="heading heading--style-2"><span class="heading__pre-title">Our Gallery</span>
+									<h2 class="heading__title no-margin-bottom"><span>Shots</span><br/> <span>from our Arcade</span></h2>
+								</div>
+							</div>
+							<div class="col-md-5 col-lg-6 text-right d-none d-md-block"><a class="button button--primary" href="#">View More Pictures</a></div>
+						</div>
+					</div>
+					<div class="row no-gutters gallery-masonry">
+						<div class="col-sm-6 col-md-3 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/gallery/gallery_1.jpg" data-fancybox="gallery"><img class="img--bg" src="img/gallery/gallery_1.jpg" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-6 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-2" href="img/homepage-banner/banner-1.webp" data-fancybox="gallery"><img class="img--bg" src="img/homepage-banner/banner-1.webp" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-3 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-3" href="img/homepage-banner/banner-2.webp" data-fancybox="gallery"><img class="img--bg" src="img/homepage-banner/banner-2.webp" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-3 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/gallery/gallery_2.jpg" data-fancybox="gallery"><img class="img--bg" src="img/gallery/gallery_2.jpg" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-3 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/gallery/gallery_3.jpg" data-fancybox="gallery"><img class="img--bg" src="img/gallery/gallery_3.jpg" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-3 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-1" href="img/gallery/gallery_4.jpg" data-fancybox="gallery"><img class="img--bg" src="img/gallery/gallery_4.jpg" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+						<div class="col-sm-6 col-md-6 gallery-masonry__item"><a class="gallery-masonry__img gallery-masonry__item--height-4" href="img/gallery/gallery_5.jpg" data-fancybox="gallery"><img class="img--bg" src="img/gallery/gallery_5.jpg" alt="img"/>
+							<div class="gallery-masonry__description"></div></a></div>
+					</div>
+					<div class="container top-50 d-block d-md-none">
+						<!-- Test -->
+						<div class="row">
+							<div class="col-12 text-center"><a class="button button--primary" href="#">Discover animals</a></div>
+						</div>
+					</div>
+				</section>
+				<!-- gallery end-->
+
+				<!-- Testimonial starts-->
+				<section class="section"><img class="section__bg t50 r0" src="img/testimonials_bg.png" alt="bg"/>
+					<div class="testimonials testimonials--style-1">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-3 d-none d-lg-block">
+									<div class="testimonials__img"><img class="img--bg" src="img/man.jpg" alt="img"/></div>
+								</div>
+								<div class="col-lg-9">
+									<div class="row align-items-center">
+										<div class="col-md-7">
+											<div class="heading heading--primary"><span class="heading__pre-title">Testimonials</span>
+												<h2 class="heading__title"><span>What Our Members<br/> Say</span> <span>About Us</span></h2>
+											</div>
+										</div>
+										<div class="col-md-5">
+											<div class="testimonials--style-1__dots text-md-right"></div>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-12">
+											<div class="testimonials-slider testimonials-slider--style-1">
+												<div class="testimonials-slider__item">
+													<div class="testimonials-slider__text">
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+													</div>
+													<div class="testimonials-slider__details"><span class="testimonials-slider__name">John Maclein</span></div>
+												</div>
+												<div class="testimonials-slider__item">
+													<div class="testimonials-slider__text">
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+													</div>
+													<div class="testimonials-slider__details"><span class="testimonials-slider__name">John Maclein</span></div>
+												</div>
+												<div class="testimonials-slider__item">
+													<div class="testimonials-slider__text">
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+														<p>Rudderfish long-finned pikerazorfish menhaden paradise fish, barramundi oceanic flyingfish. Fangtooth yellowtail banded killifish seamoth triplefin blenny desert pupfish crocodile shark catfish cutlassfish broadband dogfish whalefish.</p>
+													</div>
+													<div class="testimonials-slider__details"><span class="testimonials-slider__name">John Maclein</span></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- Testimonials ends-->
+
+				<!-- Events start-->
+				<section class="section front-events background--gray">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-10 col-xl-7">
+								<div class="heading heading--primary heading--style-2 bottom-50"><span class="heading__pre-title">Past Rides</span>
+									<h2 class="heading__title no-margin-bottom"><span>Some of Our</span><br/> <span>Recent Past Rides</span></h2>
+								</div>
+								<div class="nearest-item">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="nearest-item__img"><img class="img--bg" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Gadiara_Sunset.JPG" alt="img"/></div>
+										</div>
+										<div class="col-md-5">
+											<div class="nearest-item__description"><a class="nearest-item__link" href="#">Gadiara Ride</a><span class="nearest-item__category">Breakfast Ride</span></div>
+										</div>
+										<div class="col-md-3">
+											<div class="nearest-item__date"><span sty>27th Nov, 2022</span><span>5 AM - 12 PM</span></div>
+										</div>
+									</div>
+								</div>
+								<div class="nearest-item">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="nearest-item__img"><img class="img--bg" src="https://b.zmtcdn.com/data/pictures/2/18162672/31d7445fb89790ed9c88a8bf7f9c2216.jpg" alt="img"/></div>
+										</div>
+										<div class="col-md-5">
+											<div class="nearest-item__description"><a class="nearest-item__link" href="#">Bypass Dhaba </a><span class="nearest-item__category">Sunday Meetup</span></div>
+										</div>
+										<div class="col-md-3">
+											<div class="nearest-item__date"><span>7th Aug, 2022</span><span>8 AM</span></div>
+										</div>
+									</div>
+								</div>
+								<div class="nearest-item">
+									<div class="row align-items-center">
+										<div class="col-md-4">
+											<div class="nearest-item__img"><img class="img--bg" src="https://img.jagranjosh.com/images/2021/November/17112021/world's-largest-vedic-temple-temple-of-vedic-planetarium.jpg" alt="img"/></div>
+										</div>
+										<div class="col-md-5">
+											<div class="nearest-item__description"><a class="nearest-item__link" href="#">Mayapur Ride</a><span class="nearest-item__category">Sunday Ride</span></div>
+										</div>
+										<div class="col-md-3">
+											<div class="nearest-item__date"><span>6th June, 2022</span><span>5 AM</span></div>
+										</div>
+									</div>
+								</div><a class="front-events__button button button--primary" href="javascript:void(0);">See All Past Rides</a>
+							</div>
+						</div>
+					</div>
+					<div class="main-event"><img class="img--bg" src="https://www.indiamike.com/files/images/60/50/07/garpanchkot.jpg" alt="img"/>
+						<div class="main-event__inner">
+							<div class="heading heading--primary heading--style-2"><span class="heading__pre-title">Upcoming Rides</span>
+								<h2 class="heading__title"><span>Our</span><br/> <span>Upcoming Rides</span></h2>
+							</div>
+							<h3 class="upcoming_ride_heading">Purulia</h3>
+							<p class="ride_time">3 Days 2 Nights</p>
+							<p id="demo"></p>
+							<p>Thornyhead salamanderfish European minnow zebra trout gray mullet climbing perch ghost carp pelican gulper Blenny barfish false cat shark halibut Dolly Varden trout lake trout. Pelagic cod swordtail</p>
+							<div class="main-event__date"><span>13th, 14th & 15th January, 2023</span></div><a class="button main-event__button button--primary" href="#">Register Now for this Ride</a>
+						</div>
+					</div>
+				</section>
+				<!-- Events end-->
+
+				<script>
+					// Set the date we're counting down to
+					var countDownDate = new Date("Jan 13, 2023 06:00:00").getTime();
+					
+					// Update the count down every 1 second
+					var x = setInterval(function() {
+					
+					  // Get today's date and time
+					  var now = new Date().getTime();
+						
+					  // Find the distance between now and the count down date
+					  var distance = countDownDate - now;
+						
+					  // Time calculations for days, hours, minutes and seconds
+					  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+					  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+					  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+					  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+						
+					  // Output the result in an element with id="demo"
+					  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+					  + minutes + "m " + seconds + "s ";
+						
+					  // If the count down is over, write some text 
+					  if (distance < 0) {
+						clearInterval(x);
+						document.getElementById("demo").innerHTML = "EXPIRED";
+					  }
+					}, 1000);
+				</script>
+
+				<!-- Sponsors start-->
+				<section class="section">
+					<div class="container">
+						<div class="row bottom-50">
+							<div class="col-12">
+								<div class="heading heading--primary heading--center"><span class="heading__pre-title">Our Sponsors</span>
+									<h2 class="heading__title no-margin-bottom"><span>People Who</span> <span>Trust Us</span></h2>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12">
+								<div class="logos-slider">
+									<div class="logos-slider__item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpmofL5dNLUA-QImY9x88bPKQk9kUA50m1syezZw7&s" alt="logo"/></div>
+									<div class="logos-slider__item"><img src="https://www.newznew.com/wp-content/uploads/2015/01/TVS-Motor-Logo-Pardaphash-107496.jpg" alt="logo"/></div>
+									<div class="logos-slider__item"><img src="https://www.masterpng.com/files/preview/1280x768/1381633286044nrcmrqlttv5ficpys993deibx26y3xv09v1yaiv65zseyk6tr98yrpjbfdiz7s6x2snaob1kwi2wnirzmlsl4fidvkymlwbepm3q.png" alt="logo"/></div>
+									<div class="logos-slider__item"><img src="https://hdpic.club/uploads/posts/2022-01/1642897072_19-hdpic-club-p-khonda-znachok-30.jpg" alt="logo"/></div>
+									<div class="logos-slider__item"><img src="https://motosymbol.com/wp-content/uploads/2021/01/Aprilia-Logo.png" alt="logo"/></div>
+								</div>
+								<div class="logos-slider__dots"></div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- Sponsors end-->
+
+				<!-- Social Network start-->
+				<section class="section no-padding-top no-padding-bottom">
+					<div class="row no-gutters">
+						<div class="col-lg-6"><a class="action-block" href="#">
+							<div class="action-block__inner"><img class="img--bg" src="img/homepage-banner/banner-1.webp" alt="img"/>
+								<h3 class="action-block__title"><span>Bengal Gearless Knights</span><br/> <span>in Facebook</span></h3>
+							</div></a></div>
+						<div class="col-lg-6"><a class="action-block" href="#">
+							<div class="action-block__inner"><img class="img--bg" src="img/homepage-banner/banner-2.webp" alt="img"/>
+								<h3 class="action-block__title"><span>Bengal Gearless Knights</span><br/> <span>in Instagram</span></h3>
+							</div></a></div>
+					</div>
+				</section>
+				<!-- Social Network end-->
+				
+			</main>
+			
+			<?php include('footer.php'); ?>
